@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1712532833541,
+  "index": "https://bengchet.github.io/Todo-List/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bengchet.github.io/Todo-List/8b0485dd9c85c89383c3.wasm",
+        "https://bengchet.github.io/Todo-List/favicon.ico",
+        "https://bengchet.github.io/Todo-List/index.html",
+        "https://bengchet.github.io/Todo-List/main.js",
+        "https://bengchet.github.io/Todo-List/manifest.webmanifest",
+        "https://bengchet.github.io/Todo-List/node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_SharedWASQLiteDB_worker_js.js",
+        "https://bengchet.github.io/Todo-List/node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_WASQLiteDB_worker_js.js",
+        "https://bengchet.github.io/Todo-List/node_modules_ws_browser_js.js",
+        "https://bengchet.github.io/Todo-List/styles.de294131e72c1d684ee2.css",
+        "https://bengchet.github.io/Todo-List/vendors-node_modules_comlink_dist_esm_comlink_mjs-node_modules_babel_runtime_helpers_esm_asyn-8dcd04.js",
+        "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_open-db_js.js",
+        "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_powersync-sdk-web_lib_src_worker_sync_SharedSyncImplementati-f231e0.js",
+        "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_wa-sqlite_dist_wa-sqlite-async_mjs.js",
+        "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_wa-sqlite_src_examples_IDBBatchAtomicVFS_js.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-128x128.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-144x144.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-152x152.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-192x192.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-384x384.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-512x512.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-72x72.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/icon-96x96.png",
+        "https://bengchet.github.io/Todo-List/assets/icons/wifi-off.svg",
+        "https://bengchet.github.io/Todo-List/assets/icons/wifi-on.svg",
+        "https://bengchet.github.io/Todo-List/assets/logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://bengchet.github.io/Todo-List/8b0485dd9c85c89383c3.wasm": "382b4ca3d8479918805e3c1d5ef31e5ddfaefea4",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://bengchet.github.io/Todo-List/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://bengchet.github.io/Todo-List/assets/icons/wifi-off.svg": "17775a44666b2a1e5e383725fe5e4e7f911a90e5",
+    "https://bengchet.github.io/Todo-List/assets/icons/wifi-on.svg": "db1251cdc98c1a7d023e8d405b19d4fd3de89b40",
+    "https://bengchet.github.io/Todo-List/assets/logo.svg": "b72af880f7eded1532d71459096625d48efe6dde",
+    "https://bengchet.github.io/Todo-List/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://bengchet.github.io/Todo-List/index.html": "0f3def9a48b083853c5394532077a7f460974551",
+    "https://bengchet.github.io/Todo-List/main.js": "cbe2b858a08839699a2bcd846ddd5985e01ac730",
+    "https://bengchet.github.io/Todo-List/manifest.webmanifest": "43a65f8f6d1201057a185cfab365d29e4a6a5b70",
+    "https://bengchet.github.io/Todo-List/node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_SharedWASQLiteDB_worker_js.js": "0be7ce9043269ce01c0429dd5cc373d7b8c01ddf",
+    "https://bengchet.github.io/Todo-List/node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_WASQLiteDB_worker_js.js": "00531eaf3afceb7d911bd30c69b2da9eb88c9cfe",
+    "https://bengchet.github.io/Todo-List/node_modules_ws_browser_js.js": "ea81ccc73464a19c2d4ccd18dcc52258459ccddf",
+    "https://bengchet.github.io/Todo-List/styles.de294131e72c1d684ee2.css": "c6729e3690fab53128871a54a55dbf3fe69755a3",
+    "https://bengchet.github.io/Todo-List/vendors-node_modules_comlink_dist_esm_comlink_mjs-node_modules_babel_runtime_helpers_esm_asyn-8dcd04.js": "20a942748bf087932747e480744a1a2731b55d99",
+    "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_powersync-sdk-web_lib_src_worker_db_open-db_js.js": "4d28ae37ad0a4fa60f102bd3e81f4c3dbbd13acd",
+    "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_powersync-sdk-web_lib_src_worker_sync_SharedSyncImplementati-f231e0.js": "7a21c5d9f1ce93809ccdeec71353effc2018a1e4",
+    "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_wa-sqlite_dist_wa-sqlite-async_mjs.js": "b2e0590d30a25e8242304dc79ceeb2de36f17c01",
+    "https://bengchet.github.io/Todo-List/vendors-node_modules_journeyapps_wa-sqlite_src_examples_IDBBatchAtomicVFS_js.js": "c9846516a49c366df0557b80259852785fbebae8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
